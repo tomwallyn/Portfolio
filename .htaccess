@@ -1,0 +1,20 @@
+
+# BEGIN WordPress
+# Les directives (lignes) entre « BEGIN WordPress » et « END WordPress » sont générées
+# dynamiquement, et doivent être modifiées uniquement via les filtres WordPress.
+# Toute modification des directives situées entre ces marqueurs sera surchargée.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /veille/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /veille/index.php [L]
+</IfModule>
+
+php_value upload_max_filesize 1280M
+ php_value post_max_size 128M
+ php_value max_execution_time 300
+ php_value max_input_time 300
+
+# END WordPress

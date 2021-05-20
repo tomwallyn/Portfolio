@@ -1,0 +1,1661 @@
+{
+
+    "pro_link": [
+        {
+            "url": "https://hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/?fd"
+        }
+    ],
+
+    "notices": [
+        {
+            "title": "Cyber Monday Deal from HasThemes",
+            "description": "<strong>End of the year Deal:</strong> Grab the 40% discount on our unlimited lifetime licenses. What's Hot: Elementor Guru and WP Bundle. <a href='https://hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/' target='_blank'>Get the deals now </a>",
+            "bannerimage": "https://api.hasthemes.com/api/woolentor/layout-img/cm19.jpg",
+            "bannerlink": "https://hasthemes.com/get-40-off-on-themes-and-plugins/",
+            "status": "1"
+        }
+    ],
+
+    "categories": [
+        {
+            "name": "Home Page",
+            "catkey": "home"
+        },
+        {
+            "name": "Shop Page",
+            "catkey": "shop"
+        },
+        {
+            "name": "Product Details Page",
+            "catkey": "productdetailspage"
+        },
+        {
+            "name": "Others Page",
+            "catkey": "otherspage"
+        }
+    ],
+    
+    "templates": [
+		{
+            "id": "home_1",
+            "shareId": "home",
+            "title": "Home Page One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_1.png",
+            "fullimage":"https://api.hasthemes.com/api/woolentor/layout-img/home_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_2",
+            "shareId": "home",
+            "title": "Home Page Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_3",
+            "shareId": "home",
+            "title": "Home Page Three",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_4",
+            "shareId": "home",
+            "title": "Home Page Four",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_4.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_5",
+            "shareId": "home",
+            "title": "Home Page Five",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_5.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_5.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_6",
+            "shareId": "home",
+            "title": "Home Page Six",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_6.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_6.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_7",
+            "shareId": "home",
+            "title": "Home Page Seven",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_7.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_7.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_8",
+            "shareId": "home",
+            "title": "Home Page Eight",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_8.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_8.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_9",
+            "shareId": "home",
+            "title": "Home Page Nine",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_9.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_9.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "home_10",
+            "shareId": "home",
+            "title": "Home Page Ten",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/home_10.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/home_10.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_1",
+            "shareId": "home",
+            "title": "Home Page Eleven",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-one/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_2",
+            "shareId": "home",
+            "title": "Home Page Twelve",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_2.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-two/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_3",
+            "shareId": "home",
+            "title": "Home Page Thirteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-three/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_4",
+            "shareId": "home",
+            "title": "Home Page Fourteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_4.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-four/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_5",
+            "shareId": "home",
+            "title": "Home Page Fifteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_5.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_5.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-five/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_6",
+            "shareId": "home",
+            "title": "Home Page Sixteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_6.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_6.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-six/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_7",
+            "shareId": "home",
+            "title": "Home Page Seventeen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_7.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_7.jpg",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-seven/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_8",
+            "shareId": "home",
+            "title": "Home Page Eighteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_8.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_8.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-eight/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_9",
+            "shareId": "home",
+            "title": "Home Page Nineteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_9.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_9.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-nine/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "young_home_10",
+            "shareId": "home",
+            "title": "Home Page Twenty",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/young_home_10.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/young_home_10.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/megamenu/young-home-ten/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+		{
+            "id": "parlo_home_page_1",
+            "shareId": "home",
+            "title": "Home Page One(For Parlo Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/parlo_home_1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/parlo_home_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/parlo/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "parlo_home_page_2",
+            "shareId": "home",
+            "title": "Home Page Two(For Parlo Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/parlo_home_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/parlo_home_2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/parlo/home-two/?footerlayout=1",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "parlo_home_page_3",
+            "shareId": "home",
+            "title": "Home Page Three(For Parlo Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/parlo_home_3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/parlo_home_3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/parlo/home-three/?footerlayout=1",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "daniel_home_page_1",
+            "shareId": "home",
+            "title": "Home Page One(For Daniel Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/daniel_home_1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/daniel_home_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/2/daniel/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "daniel_home_page_2",
+            "shareId": "home",
+            "title": "Home Page Two(For Daniel Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/daniel_home_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/daniel_home_2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/2/daniel/home-two/?footer_layout=1",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "hurst_home_page_1",
+            "shareId": "home",
+            "title": "Home Page One(For Hurst Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/hurst_home_1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/hurst_home_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/4/hurstem/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "hurst_home_page_2",
+            "shareId": "home",
+            "title": "Home Page Two(For Hurst Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/hurst_home_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/hurst_home_2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/4/hurstem/",
+            "category": "Home",
+            "tags": ["home", "home page", "landing page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_1_free_shsj876",
+            "shareId": "shop",
+            "title": "Shop Page Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/shop/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_2_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/music/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_3_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Three",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/clothing/hoodies/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_4_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Four",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-4.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/clothing/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_5_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Five",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-5.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-5.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/clothing/t-shirts/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_6_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Six",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-6.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-6.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/music/albums/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_7_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Seven",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-7.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-7.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/music/singles/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_8_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Eight",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-8.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-8.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/posters/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_9_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Nine",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-9.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-9.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/fashion/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "shop_page_10_pro",
+            "shareId": "shop",
+            "title": "Shop Page Style Ten",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-10.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/archive-layout-10.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product-category/lighting/",
+            "category": "shop",
+            "tags": ["shop", "shop page", "archive page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_1_free_ashj90",
+            "shareId": "product details page",
+            "title": "Product Details Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/flying-ninja/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_2_free_djjd7e",
+            "shareId": "product details page",
+            "title": "Product Details Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/ninja-silhouette/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_3_free_sjdfj90",
+            "shareId": "product details page",
+            "title": "Product Details Style Three",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/patient-ninja/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_4_free",
+            "shareId": "product details page",
+            "title": "Product Details Style Video galley",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-16.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-16.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/video-in-product-gallery/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_4_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Four",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-4.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/premium-quality/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_5_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Five",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-5.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-5.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/happy-ninja/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_6_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Six",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-6.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-5.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/ninja-silhouette-2/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_7_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Seven",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-7.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-7.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/premium-quality-2/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_8_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Eight",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-8.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-8.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/ship-your-idea/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_9_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Nine",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-9.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-9.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/ship-your-idea-3/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_10_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Ten",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-10.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-10.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/woo-album-1/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_11_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Eleven",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-11.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-11.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/woo-album-2/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_12_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Twelve",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-12.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-12.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/woo-album-3/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_13_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Thirteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-13.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-13.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/woo-album-4/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_14_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Fourteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-14.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-14.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/woo-single-1/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "single_product_layout_15_pro",
+            "shareId": "product details page",
+            "title": "Product Details Style Fifteen",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-15.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/product-details-15.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.wphash.com/woolentor/product/woo-ninja-2/",
+            "category": "product details page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "parlo_about_us_free_12hjk",
+            "shareId": "others page",
+            "title": "About Us Page(For Parlo Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/about-us.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/about-us.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/parlo/about-us/",
+            "category": "others page",
+            "tags": ["product", "product details page", "product page"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+        {
+            "id": "parlo_contact_us_free_hjdf1",
+            "shareId": "others page",
+            "title": "Contact Us Page(For Parlo Theme)",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/contact-us.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/contact-us.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "http://demo.shrimpthemes.com/1/parlo/contact-us/",
+            "category": "others page",
+            "tags": ["others page", "page", "others"],
+            "isPro": "0",
+            "tmpType":"free",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [],
+            "requiredtheme": ""
+        },
+		{
+            "id": "sales_notification",
+            "shareId": "Sales Notification",
+            "title": "Sales Notification Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Sales Notification",
+            "tags": ["sales notification", "notification", "sales"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "sales_notification_2",
+            "shareId": "Sales Notification",
+            "title": "Sales Notification Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Sales Notification",
+            "tags": ["sales notification", "notification", "sales"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "sales_notification_3",
+            "shareId": "Sales Notification",
+            "title": "Sales Notification Style Three",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Sales Notification",
+            "tags": ["sales notification", "notification", "sales"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "sales_notification_4",
+            "shareId": "Sales Notification",
+            "title": "Sales Notification Style Four",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_4.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/sales_notification_4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Sales Notification",
+            "tags": ["sales notification", "notification", "sales"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+		{
+            "id": "cart",
+            "shareId": "Cart and Checkout Page",
+            "title": "Cart Page",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/cartpage.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/cartpage.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Cart and Checkout Page",
+            "tags": ["cart page", "page", "cart"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "checkout",
+            "shareId": "Cart and Checkout Page",
+            "title": "Checkout Page",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/checkoutpage.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/checkoutpage.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "Cart and Checkout Page",
+            "tags": ["checkout page", "page", "checkout"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "my_account_page_left",
+            "shareId": "My Account",
+            "title": "My Account Page Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_1.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_1.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "My Account",
+            "tags": ["my account page", "page", "account","my account"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+		{
+            "id": "my_account_page_right",
+            "shareId": "My Account",
+            "title": "My Account Page Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_2.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_2.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "My Account",
+            "tags": ["my account page", "page", "account","my account"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+		{
+            "id": "my_account_page_top",
+            "shareId": "My Account",
+            "title": "My Account Page Style Three",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_3.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_3.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "My Account",
+            "tags": ["my account page", "page", "account","my account"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+		{
+            "id": "my_account_page_bottom",
+            "shareId": "My Account",
+            "title": "My Account Page Style Four",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_4.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/my_account_4.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/",
+            "category": "My Account",
+            "tags": ["my account page", "page", "account","my account"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "brand_carousel",
+            "shareId": "others",
+            "title": "Brand Carousel",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/brand_carousel.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/brand_carousel.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/brand-logo/",
+            "category": "others",
+            "tags": ["brand logo", "brand", "brand carousel", "logo"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "brand_grid_style_one",
+            "shareId": "others",
+            "title": "Brand Grid Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/brand_grid_style_one.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/brand_grid_style_one.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/brand-logo/",
+            "category": "others",
+            "tags": ["brand logo", "brand", "brand grid", "logo"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "brand_grid_style_two",
+            "shareId": "others",
+            "title": "Brand Grid Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/brand_grid_style_two.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/brand_grid_style_two.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/brand-logo/",
+            "category": "others",
+            "tags": ["brand logo", "brand", "brand grid", "logo"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "category_horizontal_style_one",
+            "shareId": "others",
+            "title": "Category Horizontal Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/category_horizontal_style_one.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/category_horizontal_style_one.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/category-view/",
+            "category": "others",
+            "tags": ["category", "horizontal", "category horizontal"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "category_horizontal_style_two",
+            "shareId": "others",
+            "title": "Category Horizontal Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/category_horizontal_style_two.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/category_horizontal_style_two.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/category-view/",
+            "category": "others",
+            "tags": ["category", "horizontal", "category horizontal"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "category_vertical_style_one",
+            "shareId": "others",
+            "title": "Category Vertical Style One",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/category_vertical_style_one.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/category_vertical_style_one.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/category-view/",
+            "category": "others",
+            "tags": ["category", "vertical", "category vertical"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        },
+        {
+            "id": "category_vertical_style_two",
+            "shareId": "others",
+            "title": "Category Vertical Style Two",
+            "thumbnail": "https://api.hasthemes.com/api/woolentor/layout-img/category_vertical_style_two.png",
+            "fullimage": "https://api.hasthemes.com/api/woolentor/layout-img/full/category_vertical_style_two.png",
+            "author": "HasThemes",
+            "url": "#",
+            "demoUrl": "https://woolentor.com/category-view/",
+            "category": "others",
+            "tags": ["category", "vertical", "category vertical"],
+            "isPro": "1",
+            "tmpType":"pro",
+            "builder": ["elementor"],
+            "demoType": "templates",
+            "freePlugins": [
+                "woolentor-addons//woolentor_addons_elementor.php//WooLentor"
+            ],
+            "proPlugins": [
+                "woolentor-addons-pro//woolentor_addons_pro.php//WooLentor Pro//hasthemes.com/plugins/woolentor-pro-woocommerce-page-builder/"
+            ],
+            "requiredtheme": ""
+        }
+        
+    ]
+}

@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: 99Fy Book were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/veille
+Data file = C:\wamp64\www\Veille\wp-content\plugins\99fy-core/includes/demo-content/book/all-content.xml
+Widget file = C:\wamp64\www\Veille\wp-content\plugins\99fy-core/includes/demo-content/book/widgets.wie
+Customizer file = C:\wamp64\www\Veille\wp-content\plugins\99fy-core/includes/demo-content/book/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Rechercher - Search - Imported
+Produits - Products - Imported
+Catégories - No Title - Imported
+Nuage d’étiquettes - No Title - Imported
+HT : WP Instagram - Instagram - Imported
+HTML personnalisé - Social Network - Imported
+
+Footer 1 : 
+
+Image - No Title - Imported
+HTML personnalisé - No Title - Imported
+
+Footer 2 : 
+
+Catégories - No Title - Imported
+
+Footer 3 : 
+
+Menu de navigation - INFORMATION - Imported
+
+Footer 4 : 
+
+Menu de navigation - QUICK LINKS - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
